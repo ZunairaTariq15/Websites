@@ -1,0 +1,147 @@
+#image1 {
+    display: inline-flex;
+}
+
+.image {
+    filter: brightness(36%);
+    height: 450px;
+    width: 1139px;
+}
+
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    color: rgb(247, 239, 239);
+    margin: 3px 6px;
+    height: 60px;
+}
+
+.home {
+    color: darkslateblue;
+    text-decoration: none;
+    padding-left: 310px;
+}
+
+.services {
+    padding-left: 30px;
+    text-decoration: none;
+    color: darkslateblue;
+}
+
+.get {
+    background-color: pink;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(251, 251, 254);
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 38px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p {
+    /* padding: 10px 20px;  */
+    font-weight: 30px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+.wel {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pic1 {
+    height: 200px;
+    width: 270px;
+    margin-top: 10px;
+    padding-left: 9px;
+}
+
+#outer {
+    margin-top: 100px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 23px;
+}
+
+span {
+    color: rgb(243, 71, 128);
+}
+
+.strong {
+    background-color: rgb(224, 224, 217);
+    border-radius: 6px;
+}
+
+#outer2 {
+    display: flex;
+}
+
+.inner {
+    height: 300px;
+    width: 180px;
+    border: 2px solid;
+    border-radius: 6px;
+    border-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 79px;
+}
+
+.image1 {
+    height: 200px;
+    width: 180px;
+    border-radius: 5px;
+}
+
+.name {
+    margin-left: 30px;
+    width: 300px;
+}
+
+.email {
+    margin-left: 30px;
+    width: 300px;
+}
+
+.comment {
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 300px;
+}
+
+#outer4 {
+    display: flex;
+}
+
+.inner2 {
+    height: 250px;
+    width: 180px;
+    border: 2px solid;
+    border-radius: 6px;
+    border-color: pink;
+    margin-top: 20px;
+    margin-left: 70px;
+    display: inline-block;
+    box-shadow: 3px 3px pink;
+}
+
+.id {
+    margin-left: 70px;
+}
+
+@media (max-width: 1000px)
+{
+}
